@@ -50,8 +50,12 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 • Exercise & Heart Disease: Negative correlation (-0.10), indicating regular exercise may reduce heart disease risk.
 
-![Heatmap](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/47f72bf5a6cff5bea167bbcf016cb0fd103dcf6d/Python%20and%20R%20code/Correlation%20to%20Target%20Variable.png)
+![Heatmap](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/cc08e03629559f8ceed576c10726fd19d96f1570/BRFSS%20Tableau%20Visuals/Correlation%20to%20Target%20Variable.png)
+
+## Below are some of the most important visuals created using Tableau that helped me derive valuable insights:
+
+
 
 ## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-![image](https://github.com/AyahIbrahim/heart-disease-risk-factors-analysis/assets/133911178/762e0932-7379-4d8a-9e50-5d8a46cd2fb0)
+![image]([https://github.com/AyahIbrahim/heart-disease-risk-factors-analysis/assets/133911178/762e0932-7379-4d8a-9e50-5d8a46cd2fb0](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/cc08e03629559f8ceed576c10726fd19d96f1570/Final%20Dashboard/Tableau%20Dashboard.pdf))

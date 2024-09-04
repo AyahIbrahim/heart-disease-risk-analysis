@@ -58,29 +58,36 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 ![image1](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Age%20%26%20Heart%20Disease.png)
 
+
 • **Age & Other Chronic Diseases Risk:**
 
 ![image2](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Other%20Chronic%20Diseases%20%26%20Age.png)
+
 
 • **Smoking In Relation to Age  & Heart Disease Risk:**
 
 ![image3](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Smoking%20in%20relation%20to%20Age%20%26%20Heart%20Disease%20.png)
 
+
 • **BMI & Heart Disease Risk:**
 
 ![image4](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/BMI%20%26%20Heart%20Disease.png)
+
 
 • **BMI In Relation to Diabetes & Age:**
 
 ![image5](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Diabetes%20in%20relation%20to%20Age%20%26%20BMI.png)
 
+
 • **Alcohol Consumption in Relation to Gender, Age & Heart Disease Risk:**
 
 ![image6](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Alcohol%20%26%20Heart%20Disease.png)
 
+
 • **Exercise In Relation to Age  & Heart Disease Risk:**
 
 ![image7](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Exercise%20%26%20Heart%20Disease.png)
+
 
 
 ## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).

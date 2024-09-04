@@ -8,6 +8,6 @@ Heart disease remains one of the leading causes of death globally. This project 
 
 This project explores patterns and associations among lifestyle factors and health metrics to understand their role in heart disease risk. This study uncovers insightful trends related to heart disease. While correlation does not imply causation, the findings highlight how certain factors interact, paving the way for early intervention and public education on heart health.
 
-# Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
+### Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![image](https://github.com/AyahIbrahim/heart-disease-risk-factors-analysis/assets/133911178/762e0932-7379-4d8a-9e50-5d8a46cd2fb0)

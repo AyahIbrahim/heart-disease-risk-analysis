@@ -58,4 +58,4 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 ## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-![image]([https://github.com/AyahIbrahim/heart-disease-risk-factors-analysis/assets/133911178/762e0932-7379-4d8a-9e50-5d8a46cd2fb0](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/cc08e03629559f8ceed576c10726fd19d96f1570/Final%20Dashboard/Tableau%20Dashboard.pdf))
+![Interactive Dashboard](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/086b77ee4e08bb3e3733feae7115e4616ee09bf3/Final%20Dashboard/Dashboard%20Screenshot.png)

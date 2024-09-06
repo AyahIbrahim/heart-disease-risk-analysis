@@ -78,7 +78,11 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 ![image7](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Exercise%20%26%20Heart%20Disease.png)
 
+## 📈 Statistical Significance Analysis
 
+• **Chi-Square Test:** Found significant associations between heart disease and variables like age, general health, exercise habits, smoking history, and gender based on p-values.
+
+• **ANOVA Test:** Showed significant differences in how age, general health, and checkup frequency influence BMI, indirectly affecting heart disease risk.
 
 ## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case.
 

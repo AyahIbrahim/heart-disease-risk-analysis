@@ -8,6 +8,8 @@ Heart disease remains one of the leading causes of death globally. his project e
    
 2) [University of California at Irvine (UCI) Machine Learning Repository (Cleveland’s Database)](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
+#### The below is meant to summarize key findings. Check out my complete [Research Paper](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/Research%20Paper.pdf) for more detailed explanation of my analysis.
+
 # Dataset 1 (BRFSS): 
 
 This dataset includes a lot of variables that seem to play a critical role in influencing the development of CVD. These include various factors such as general health, checkup frequency, BMI, physical activity, presence of other disease or mental health disorders, smoking history, alcohol consumption, and other dietary variables, including even demographic variables such as age, height, and gender.
@@ -44,44 +46,44 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 ![Heatmap](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/cc08e03629559f8ceed576c10726fd19d96f1570/BRFSS%20Tableau%20Visuals/Correlation%20to%20Target%20Variable.png)
 
-## Below are some of the most important visuals created using Tableau that helped me derive valuable insights:
+## Below are some of the most important visuals created for Dataset 1 using Tableau that helped me derive valuable insights:
 
-• **Age & Heart Disease Risk:**
+### • **Age & Heart Disease Risk:**
 
 ![image1](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Age%20%26%20Heart%20Disease.png)
 
 
-• **Age & Other Chronic Diseases Risk:**
+### • **Age & Other Chronic Diseases Risk:**
 
 ![image2](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Other%20Chronic%20Diseases%20%26%20Age.png)
 
 
-• **Smoking In Relation to Age  & Heart Disease Risk:**
+### • **Smoking In Relation to Age  & Heart Disease Risk:**
 
 ![image3](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Smoking%20in%20relation%20to%20Age%20%26%20Heart%20Disease%20.png)
 
 
-• **BMI & Heart Disease Risk:**
+### • **BMI & Heart Disease Risk:**
 
 ![image4](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/BMI%20%26%20Heart%20Disease.png)
 
 
-• **BMI In Relation to Diabetes & Age:**
+### • **BMI In Relation to Diabetes & Age:**
 
 ![image5](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Diabetes%20in%20relation%20to%20Age%20%26%20BMI.png)
 
 
-• **Fried Food Consumption in Relation to BMI & Heart Disease:**
+### • **Fried Food Consumption in Relation to BMI & Heart Disease:**
 
 ![image6](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/659cbdb2b4016b335d084ec40ee8514244303cd8/BRFSS%20Tableau%20Visuals/Fried%20Food%20%26%20BMI%20in%20relation%20to%20Heart%20Disease.png)
 
 
-• **Alcohol Consumption in Relation to Gender, Age & Heart Disease Risk:**
+### • **Alcohol Consumption in Relation to Gender, Age & Heart Disease Risk:**
 
 ![image7](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Alcohol%20%26%20Heart%20Disease.png)
 
 
-• **Exercise In Relation to Age  & Heart Disease Risk:**
+### • **Exercise In Relation to Age  & Heart Disease Risk:**
 
 ![image8](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Exercise%20%26%20Heart%20Disease.png)
 
@@ -131,6 +133,36 @@ I found the insights below to be useful:
 
 • Thalassemia Type shows strong positive correlations with Chest Pain Type (0.26) and Unblocked Coronary Arteries (0.29), suggesting some association between these conditions.
 
+## Below are some of the most important visuals created for Dataset 2 using Tableau that helped me derive valuable insights:
 
+### • **Gender Gap & Heart Disease Risk:**
 
+![gender](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/UCI%20Visuals/Gender%20Gap%20in%20Heart%20Disease.png)
 
+### • **Chest Pain Types & Heart Disease Risk:**
+
+![pain](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/UCI%20Visuals/Chest%20Pain%20in%20relation%20to%20Checkups%20and%20Heart%20Disease.png)
+
+### • **Cholestrol & Blood Pressure Levels in Relation to Artery Blockage, Age, & Heart Disease Risk:**
+
+![img1](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/UCI%20Visuals/Cholestrol%20and%20Blood%20Pressure.png)
+
+![img2](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/UCI%20Visuals/Cholestrol%20%26%20Blood%20Pressure%20in%20relation%20to%20Artery%20Blockage.png)
+
+## 🔑 Key Takeaways for Reducing Heart Disease Risk
+
+While factors like age, gender, and genetics are beyond control, actionable steps can help mitigate heart disease risk:
+
+• Quit Smoking: Smoking increases heart disease risk; quitting and avoiding secondhand smoke are crucial.
+
+• Limit Alcohol: Keep alcohol consumption to moderate levels.
+
+• Regular Checkups: Monitor blood pressure, cholesterol, and other risk factors even without symptoms.
+
+• Manage Blood Pressure & Cholesterol: Routine screenings and dietary adjustments help maintain optimal levels.
+
+• Increase Physical Activity: Regular exercise, especially for aging individuals, supports heart health and BMI.
+
+• Maintain Healthy Weight: Balance diet and activity to prevent obesity.
+
+• Eat a Balanced Diet: Focus on nutrient-rich foods while reducing fatty, fried foods and sugar to lower the risk of diabetes and heart disease.

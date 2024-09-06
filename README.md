@@ -69,14 +69,19 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 ![image5](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Diabetes%20in%20relation%20to%20Age%20%26%20BMI.png)
 
 
+• **Fried Food Consumption in Relation to BMI & Heart Disease:**
+
+![image6](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/659cbdb2b4016b335d084ec40ee8514244303cd8/BRFSS%20Tableau%20Visuals/Fried%20Food%20%26%20BMI%20in%20relation%20to%20Heart%20Disease.png)
+
+
 • **Alcohol Consumption in Relation to Gender, Age & Heart Disease Risk:**
 
-![image6](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Alcohol%20%26%20Heart%20Disease.png)
+![image7](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Alcohol%20%26%20Heart%20Disease.png)
 
 
 • **Exercise In Relation to Age  & Heart Disease Risk:**
 
-![image7](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Exercise%20%26%20Heart%20Disease.png)
+![image8](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/90bdfa408d01ee0b1e04790c5c551366c3a6f82e/BRFSS%20Tableau%20Visuals/Exercise%20%26%20Heart%20Disease.png)
 
 ## 📈 Statistical Significance Analysis
 

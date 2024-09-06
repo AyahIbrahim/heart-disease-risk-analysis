@@ -8,7 +8,9 @@ Heart disease remains one of the leading causes of death globally. his project e
    
 2) [University of California at Irvine (UCI) Machine Learning Repository (Cleveland’s Database)](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
-# Dataset 1 (BRFSS):
+# Dataset 1 (BRFSS): 
+
+This dataset includes a lot of variables that seem to play a critical role in influencing the development of CVD. These include various factors such as general health, checkup frequency, BMI, physical activity, presence of other disease or mental health disorders, smoking history, alcohol consumption, and other dietary variables, including even demographic variables such as age, height, and gender.
 
 ## 🧹 Data Cleaning & Preprocessing
 
@@ -94,3 +96,41 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![Interactive Dashboard](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/086b77ee4e08bb3e3733feae7115e4616ee09bf3/Final%20Dashboard/Dashboard%20Screenshot.png)
+
+# Dataset 2 (UCI): 
+
+This dataset complements the BRFSS data and includes medical terminology and factors that are known to influence CVD such as bloos pressure, cholestrol, chest pain, max heart rate, sugar level, artery blockage, etc.
+
+## 🧹 Data Cleaning & Preprocessing
+
+• Imputation of missing (NA) values with the mean. 
+
+• Modified the features names to terms that are easier and more clear for the general public to grasp using R programming.
+
+## 🔍 Correlation Insights 
+
+### With Target Variable, Heart Disease: 
+
+![Corr1](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/c5abed38d71702fb2401b5060b0c58b42c686cee/UCI%20Visuals/Correlation%20of%20Features%20with%20Heart%20Disease.png)
+
+### Overall Heatmap:
+
+![Corr2](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/c5abed38d71702fb2401b5060b0c58b42c686cee/UCI%20Visuals/Heatmap.png)
+
+I found the insights below to be useful:
+
+• Maximum Heart Rate Achieved has a negative correlation (-0.42) with heart disease, indicating that a higher maximum heart rate achieved is associated with a lower likelihood of heart disease.
+
+• Exercise ST segment Depression Value shows a moderate positive correlation (0.50) with heart disease, meaning that higher ST segment depression is associated with a higher likelihood of heart disease.
+
+• Slope Peak Exercise ST segment Value and Unblocked Coronary Arteries also show positive correlations (0.38 and 0.52, respectively) with heart disease.
+
+• Unblocked Coronary Arteries have a strong positive correlation (0.36) with age, indicating that older participants tend to have more unblocked coronary arteries.
+
+• Aging also seems to lead to higher cholestrol, bloos pressure, and sugar levels.
+
+• Thalassemia Type shows strong positive correlations with Chest Pain Type (0.26) and Unblocked Coronary Arteries (0.29), suggesting some association between these conditions.
+
+
+
+

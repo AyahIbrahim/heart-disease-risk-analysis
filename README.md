@@ -8,7 +8,7 @@ Heart disease remains one of the leading causes of death globally. his project e
    
 2) [University of California at Irvine (UCI) Machine Learning Repository (Cleveland’s Database)](https://archive.ics.uci.edu/dataset/45/heart+disease).
 
-#### The below is meant to summarize key findings. Check out my complete [Research Paper](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/Research%20Paper.pdf) for more detailed explanation of my analysis.
+#### This document is meant to summarize key findings. Check out my complete [Research Paper](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/94888c2f981ac8f7724e5a6eca42ec6baa739079/Research%20Paper.pdf) for more detailed explanation of my analysis.
 
 # Dataset 1 (BRFSS): 
 

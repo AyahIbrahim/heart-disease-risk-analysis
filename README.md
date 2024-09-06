@@ -153,16 +153,16 @@ I found the insights below to be useful:
 
 While factors like age, gender, and genetics are beyond control, actionable steps can help mitigate heart disease risk:
 
-• Quit Smoking: Smoking increases heart disease risk; quitting and avoiding secondhand smoke are crucial.
+• **Quit Smoking:** Smoking increases heart disease risk; quitting and avoiding secondhand smoke are crucial.
 
-• Limit Alcohol: Keep alcohol consumption to moderate levels.
+• **Limit Alcohol:** Keep alcohol consumption to moderate levels.
 
-• Regular Checkups: Monitor blood pressure, cholesterol, and other risk factors even without symptoms.
+• **Regular Checkups:** Monitor blood pressure, cholesterol, and other risk factors even without symptoms.
 
-• Manage Blood Pressure & Cholesterol: Routine screenings and dietary adjustments help maintain optimal levels.
+• **Manage Blood Pressure & Cholesterol:** Routine screenings and dietary adjustments help maintain optimal levels.
 
-• Increase Physical Activity: Regular exercise, especially for aging individuals, supports heart health and BMI.
+• **Increase Physical Activity:** Regular exercise, especially for aging individuals, supports heart health and BMI.
 
-• Maintain Healthy Weight: Balance diet and activity to prevent obesity.
+• **Maintain Healthy Weight:** Balance diet and activity to prevent obesity.
 
-• Eat a Balanced Diet: Focus on nutrient-rich foods while reducing fatty, fried foods and sugar to lower the risk of diabetes and heart disease.
+• **Eat a Balanced Diet:** Focus on nutrient-rich foods while reducing fatty, fried foods and sugar to lower the risk of diabetes and heart disease.

@@ -1,6 +1,6 @@
 # 🫀 Heart Disease Risk Analysis
 
-Heart disease remains one of the leading causes of death globally. This project leverages data science to analyze heart disease risk factors, aiming to enhance public health. This project explores patterns and associations among lifestyle factors and health metrics to understand their role in heart disease risk. This study uncovers insightful trends related to heart disease. While correlation does not imply causation, the findings highlight how certain factors interact, paving the way for early intervention and public education on heart health.
+Heart disease remains one of the leading causes of death globally. his project explores patterns and associations among lifestyle factors and health metrics to understand their role in heart disease risk and uncover insightful trends. While correlation does not imply causation, the findings highlight how certain factors interact, paving the way for early intervention and public education on heart health.
 
 ## Using real-world datasets from:
 
@@ -25,16 +25,6 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 • **Categorical Factors** Recoded variables like "General_Health" and "Age_Category" as ordered factors.
 
 • **BMI Categorization:** Grouped BMI into categories: Underweight, Normal, Overweight, and Obesity.
-
-## 📊 Summary of Descriptive Statistics
-
-• Body Metrics: Heights range from 91 to 241 cm, weights from 25 to 293 kg, and BMI from 12.02 to 99.33, suggesting potential outliers and a prevalence of overweight individuals.
-
-• Dietary Habits: Alcohol, fruit, and vegetable consumption vary widely, with higher intake in fruits and green vegetables.
-
-• Health Conditions: Most individuals report no heart disease (91.92%) and exercise regularly. Positive responses for conditions like CVD, Diabetes, and Cancer are less common.
-
-• Demographics: Majority are female, aged 65-69, exercise, have had a recent checkup, and describe their health as "Very Good."
 
 ## 🔍 Correlation Insights
 
@@ -90,6 +80,8 @@ The BRFSS dataset was cleaned and preprocessed using R with the following steps:
 
 
 
-## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case. You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
+## Below is a screenshot of the final dashboard created in Tableau. It is interactive as to allow the end-user to extract insights that might be useful to his/her case.
+
+You can access it after signing in through this public Tableau [link](https://public.tableau.com/views/HeartDiseaseRiskFactorsDashboard/New?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![Interactive Dashboard](https://github.com/AyahIbrahim/heart-disease-risk-analysis/blob/086b77ee4e08bb3e3733feae7115e4616ee09bf3/Final%20Dashboard/Dashboard%20Screenshot.png)
